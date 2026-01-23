@@ -11,7 +11,8 @@
 - [📈 Binance Futures Alerts](https://github.com/balamuteon/binance-futures-alerts) — система уведомлений о движении фьючерсов Binance  
 - [🛒 Marketplace REST API](https://github.com/balamuteon/marketplace_RESTAPI) — REST API для маркетплейса  
 - [🔌 Denet API](https://github.com/balamuteon/denetApi) — API для взаимодействия с внешними сервисами  
-- [🗒️ ToDo REST API](https://github.com/balamuteon/todo_restapi) — REST API для системы задач  
+- [🗒️ ToDo REST API](https://github.com/balamuteon/todo_restapi) — REST API для системы задач
+- [🗒️ Courier Service](https://github.com/balamuteon/courier-service) - микросервис назначения курьера на заказ
 
 ---
 
