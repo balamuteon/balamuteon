@@ -2,7 +2,6 @@
 
 💻 **Backend / Go Developer**  
 🎯 Изучаю: Go, Docker, PostgreSQL, Linux, HTTP  
-🚀 Мои цели: перейти в продакшн и разрабатывать высоконагруженные сервисы  
 
 ---
 
