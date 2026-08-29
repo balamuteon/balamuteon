@@ -7,6 +7,7 @@
 
 ## 🐹 **Основной стек — Go**
 
+- [💱 Currency Quotes Service](https://github.com/balamuteon/plata-go-currency-quotes) - сервис получения актуальных курсов валют
 - [🗒️ Courier Service](https://github.com/balamuteon/courier-service) - микросервис управления курьерами и доставками для системы заказов 
 - [📈 Binance Futures Alerts](https://github.com/balamuteon/binance-futures-alerts) — система уведомлений о движении фьючерсов Binance
 - [🔔 Subscriptions Service](https://github.com/balamuteon/subscriptions-service) — сервис управления подписками и биллингом
